@@ -55,9 +55,9 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagaKiran-Machiraju&theme=radical)  
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NagaKiran-Machiraju&theme=radical)  
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NagaKiran-Machiraju&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naga-Kiran-M&theme=radical)  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naga-Kiran-M&theme=radical)  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naga-Kiran-M&theme=radical)  
 
 
 ⭐ **If you like my work, consider giving a star to my repositories!** ⭐  
