@@ -16,7 +16,7 @@
 
 
 ## 🔥 Academic Projects  
-🚀 **[Acadamic Projects](https://github.com/NagaKiran-Machiraju/Resume-Based-Portfolio/Acadamic Projects)** 
+🚀 **[Acadamic Projects](https://github.com/NagaKiran-Machiraju/Resume-Based-Portfolio/Acadamic-Projects)** 
 📌 Showcases my work in **Electronics and Signal Processing Projects from my University days**  
 
 ---
