@@ -12,12 +12,21 @@
 ## 🔥 Featured Projects  
 🚀 **[Resume-Based Portfolio](https://github.com/NagaKiran-Machiraju/Resume-Based-Portfolio)**  
 📌 Showcases my work in **Machine Learning, Signal Processing, and AI Applications**  
-📌 Contains  ML models, and research implementations**  
+📌 Contains  ML models, Sample Code, and research implementations**  
+
+
+## 🔥 Academic Projects  
+🚀 **[Acadamic Projects](https://github.com/NagaKiran-Machiraju/Resume-Based-Portfolio/Acadamic Projects)** 
+📌 Showcases my work in **Electronics and Signal Processing Projects from my University days**  
 
 ---
 
 ## 📜 Research & Publications  
-📌 **"Photonic system for real-time detection, discrimination, and quantification of microbes in air"** - *Published in Frontiers in Physics (2023)*  
+📌 **"Photonic system for real-time detection, discrimination, and quantification of microbes in Air"** - *Published in Frontiers in Physics (2023)*  
+🚀 We report the results of the non-invasive photonic system AUM for remote detection and characterization of different pathogenic bacterial strains
+    and mixtures. AUM applies the concepts of elastic light scattering, statistical mechanics, artificial intelligence, and machine learning to identify,
+    classify, and quantify various microbes in the scattering volume in real-time and, therefore, can become a potential tool in controlling and managing
+    diseases caused by pathogenic microbes.
 📌 [Read it here 📄](https://doi.org/10.3389/fphy.2023.1118885)  
 
 ---
